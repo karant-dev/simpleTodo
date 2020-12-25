@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="codepath_todo_app">CodePath ToDo App</string>
+</resources>
